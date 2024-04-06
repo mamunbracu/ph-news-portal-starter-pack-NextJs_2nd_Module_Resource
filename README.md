@@ -1,0 +1,1 @@
+# ph-news-portal-starter-pack-NextJs_2nd_Module_Resource
